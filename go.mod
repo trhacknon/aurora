@@ -1,4 +1,4 @@
-module github.com/logrusorgru/aurora/v4
+module github.com/trhacknon/aurora/v4
 
 go 1.19
 
